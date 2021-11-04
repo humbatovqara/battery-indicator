@@ -1,0 +1,9 @@
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\bin\Debug\Battery.exe.config
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\bin\Debug\Battery.exe
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\bin\Debug\Battery.pdb
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\obj\Debug\Battery.csprojResolveAssemblyReference.cache
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\obj\Debug\Battery.Form1.resources
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\obj\Debug\Battery.Properties.Resources.resources
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\obj\Debug\Battery.csproj.GenerateResource.Cache
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\obj\Debug\Battery.exe
+c:\users\qara\documents\visual studio 2015\Projects\Battery\Battery\obj\Debug\Battery.pdb
